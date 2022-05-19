@@ -1,0 +1,25 @@
+body{
+    background-image: url("backgrounds.png");
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+.note{
+ font-size: 15px;
+}
+
+#song_name{
+    font-size: 20px;
+    box-shadow: 1px 1px 32px;
+}
+
+canvas{
+    border-radius: 10px;
+    border-style: solid;
+    border: white;
+    box-shadow: 1px 1px 32px grey;
+}
